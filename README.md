@@ -1,0 +1,2 @@
+# nisht
+*nix shell scripts
